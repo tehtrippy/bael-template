@@ -1,5 +1,5 @@
 ---
-title: Rufus Du Sol Live in Joshua Tree Yolo
+title: Rufus Du Sol Live in Joshua Tree Yolo 2
 date: Sunday September 6th, 2020
 thumbnail: /images/uploads/desert.jpg
 category: Music
